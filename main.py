@@ -70,3 +70,7 @@ path.pack(side=LEFT, expand=True, fill=X, padx=20)
 Button(root, text="Open File", command=openFile).pack(side=RIGHT, expand=True, fill=X, padx=20)
 
 root.mainloop()
+
+
+# siema tutaj co tam 
+
